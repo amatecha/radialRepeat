@@ -26,8 +26,8 @@ Options
 
 The script can be set to either always use the same number of nodes, or to ask you how many total nodes you want every time you run the script.  These settings can be changed in the "SETTINGS" section of the script.  You can edit the script using any text editor - just be sure that it saves it as plain text (as opposed to .doc, .rtf).
 
-* **numberOfNodes**: To set the total number of nodes (with no prompt dialog), change the "numberOfNodes" value.  Must be 2 or greater.
-* **promptForNumberOfNodes**: If you would like to be prompted for this number every time you run the script, change "promptForNumberOfNodes" to true.
+* **numberOfNodes** *(default 16)*: To set the total number of nodes (with no prompt dialog), change the "numberOfNodes" value.  Must be 2 or greater.
+* **promptForNumberOfNodes** *(default false)*: If you would like to be prompted for this number every time you run the script, change "promptForNumberOfNodes" to true.
 
 License
 -------
