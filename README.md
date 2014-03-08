@@ -16,10 +16,9 @@ Instructions
 2. *OPTIONAL*: Assign the script to a keyboard shortcut ( *Edit -> Keyboard Shortcuts* )
 3. Create a new document and create a new layer.
 4. Draw something in this layer!
-5. Run the script, either with your key-command or by choosing *File -> Scripts -> radialRepeat*.  If you have set "promptForNumberOfNodes"  (see [Options](#options) below), you will be asked how many total nodes you'd like your graphic to have.
+5. Run the script, either with your key-command or by choosing *File -> Scripts -> radialRepeat*.  If you have set "promptForNumberOfNodes"  (see [Options](#options) below), you will be asked how many total nodes you'd like your graphic to have.  **Protip**:  You don't have to use the same number of nodes every time!  Try changing it up each time for interesting results!
 
-**Protip**:  You don't have to use the same number of nodes every time!  Try changing it up each time for interesting results!
-Start with an empty layer into which you have drawn some content.  It must be a new transparent layer, not the Background layer.
+**Automatic history state**:  Just as it begins running, radialRepeat automatically sets a history "bookmark" (by setting the History Brush source) in the document's history.  If you don't like the results from the latest run, you can revert back by scrolling up in the document history and choosing that history state.
 
 Options
 -------
