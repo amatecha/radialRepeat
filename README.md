@@ -4,9 +4,9 @@ radialRepeat
 
 radialRepeat allows you to create interesting and complex radially-symmetrical patterns easily and quickly using small incremental edits.
 
-This script was inspired by the [interesting artwork](http://wiki.xxiivv.com/The%20flactals) created by [aliceffekt](https://github.com/aliceffekt), as well as an older ["timelapse" recording](http://www.youtube.com/watch?v=iu0ODV8scH4) of his process.  I thought it would be useful to provide a portable Photoshop script to automate the process of creating these patterns, with useful options to customize the process.
+This script was inspired by the [interesting artwork](http://wiki.xxiivv.com/fractals) created by [aliceffekt](https://github.com/aliceffekt), as well as an older ["timelapse" recording](http://www.youtube.com/watch?v=iu0ODV8scH4) of his process.  I thought it would be useful to provide a portable Photoshop script to automate the process of creating these patterns, with useful options to customize the process.
 
-[![radially-symmetrical artwork](http://wiki.xxiivv.com/img/diary/385.jpg "Aliceffekt - Rainise")](http://wiki.xxiivv.com/The%20flactals)
+[![radially-symmetrical artwork](http://wiki.xxiivv.com/img/diary/385.jpg "Aliceffekt - Rainise")](http://wiki.xxiivv.com/fractals)
 
 Instructions
 ------------
